@@ -29,10 +29,10 @@
 // let query = document.querySelector(".mouse");
 // console.log("Query selector", query);
 
-// let queryAll = document.querySelectorAll("div");
-// console.log("Query selector", queryAll);
+let queryAll = document.querySelectorAll("div");
+console.log("Query selector", queryAll);
 
-// console.log("getElementById", document.getElementById("cat"));
+console.log("getElementById", document.getElementById("cat"));
 
 let catDiv = document.getElementById("cat");
 
